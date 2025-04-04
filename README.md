@@ -21,4 +21,4 @@
 <img align="center" alt=js src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 </div>
 
-<img widht=100% src="">
+<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=142C50&textBg=false&section=footer&reversal=true&fontAlign=50&animation=fadeIn">
